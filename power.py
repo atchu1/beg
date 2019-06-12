@@ -1,2 +1,2 @@
 num=int(input())
-print(n**2)
+print(num**2)
