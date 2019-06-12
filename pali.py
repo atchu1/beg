@@ -1,5 +1,5 @@
 z=input()
 if(z==z[::-1]):
-print("yes")
+    print("yes")
 else:
-print("no")
+    print("no")
