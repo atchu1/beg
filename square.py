@@ -1,3 +1,4 @@
+import math
 m,a=list(map(int,input().split())
 c=m*a
 x=int(math.sqrt(c))
