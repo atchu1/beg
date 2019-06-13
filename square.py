@@ -1,4 +1,5 @@
 import math
+c=0
 m,a=list(map(int,input().split())
 c=m*a
 x=int(math.sqrt(c))
