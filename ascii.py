@@ -1,2 +1,2 @@
-value=input()
-print(ord(value))
+valuenum=input()
+print(ord(valuenum))
