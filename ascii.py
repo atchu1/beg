@@ -1,2 +1,2 @@
-z=input()
-print(ord(z))
+value=input()
+print(ord(value))
