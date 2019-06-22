@@ -1,6 +1,6 @@
-n=input()
+M=input()
 d=0
-for x in n:
+for x in M:
    if x.isdigit():
      d=d+1
      print(x,end="")
