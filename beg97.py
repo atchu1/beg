@@ -1,7 +1,7 @@
-num=int(input())
+number=int(input())
 rev=0
-while num>0:
-  rem=num%10
+while number>0:
+  rem=number%10
   rev=(rev*10)+rem
-  num=num//10
+  number=number//10
 print(rev)
