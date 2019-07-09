@@ -1,2 +1,2 @@
-given string=input()
-print(given String.title())
+givenstring=input()
+print(givenstring.title())
